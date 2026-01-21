@@ -17,5 +17,6 @@
     },
     "extra": {
         "class": "EICC\\StaticForge\\Installer\\Plugin"
-    }
+    },
+    "version": "1.0.0"
 }
